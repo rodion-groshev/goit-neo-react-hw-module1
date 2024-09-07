@@ -1,0 +1,8 @@
+.defines {
+  text-align: center;
+  border: 2px solid black;
+}
+
+tr:nth-child(even) .defines {
+  background-color: grey;
+}
